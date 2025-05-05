@@ -47,5 +47,11 @@ TagManager:
   - name: Coins
     uniqueID: 2857204687
     locked: 0
+  - name: Bullets
+    uniqueID: 3422348855
+    locked: 0
+  - name: Player
+    uniqueID: 1416366577
+    locked: 0
   m_RenderingLayers:
   - Default
