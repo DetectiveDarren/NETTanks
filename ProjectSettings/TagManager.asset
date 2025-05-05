@@ -53,5 +53,11 @@ TagManager:
   - name: Player
     uniqueID: 1416366577
     locked: 0
+  - name: Rock
+    uniqueID: 1553769973
+    locked: 0
+  - name: Explosion
+    uniqueID: 994623179
+    locked: 0
   m_RenderingLayers:
   - Default
